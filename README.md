@@ -33,3 +33,6 @@ Il faudra donc créer un programme Python qui puisse envoyer des requête HTTP e
 L'application sera hébergée sur le réseau Ynov et l'addresse vous sera donnée au début du TP. 
 
 Lien vers l'application : http://10.31.36.84/
+
+![image](https://user-images.githubusercontent.com/51991304/158848628-c40f3a38-34dc-4119-bdcd-e07e9f5fffd6.png)
+
