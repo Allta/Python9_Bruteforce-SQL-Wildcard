@@ -31,3 +31,5 @@ Le signe **%** permet de selectionner tout les users commençant par **Fra**.
 Il faudra donc créer un programme Python qui puisse envoyer des requête HTTP en complétant le champ password dynamiquement avec l'utilisation des wildcard. 
 
 L'application sera hébergée sur le réseau Ynov et l'addresse vous sera donnée au début du TP. 
+
+Lien vers l'application : http://10.31.36.84/
