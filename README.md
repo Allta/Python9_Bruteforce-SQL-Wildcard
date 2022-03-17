@@ -1,4 +1,7 @@
+# https://classroom.github.com/a/2kkaiNQn
+
 # TP BruteForce SQL Wildward - Ynov Python B1
+
 
 ### Tips   
 
